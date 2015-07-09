@@ -1,0 +1,26 @@
+{
+  "name": "tsdns",
+  "version": "0.0.0",
+  "description": "TeamSpeak 3 DNS (TSDNS) implementation for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "iojs --use_strict --harmony_arrow_functions test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeltroGaming/tsdns.git"
+  },
+  "keywords": [
+    "teamspeak",
+    "ts",
+    "ts3",
+    "dns",
+    "tsdns"
+  ],
+  "author": "Jan Buschtöns <jan@veltro.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VeltroGaming/tsdns/issues"
+  },
+  "homepage": "https://github.com/VeltroGaming/tsdns#readme"
+}
