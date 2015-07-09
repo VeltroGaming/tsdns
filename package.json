@@ -1,6 +1,6 @@
 {
   "name": "tsdns",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "TeamSpeak 3 DNS (TSDNS) implementation for Node.js",
   "main": "index.js",
   "scripts": {
